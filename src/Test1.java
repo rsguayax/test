@@ -19,4 +19,5 @@ public class Test1 {
     public void setB(int b) {
         this.b = b;
     }
+    
 }
